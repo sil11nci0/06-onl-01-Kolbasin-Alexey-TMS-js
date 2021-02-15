@@ -1,15 +1,7 @@
-var a = "Hello";
-var b = 2;
-var c = true;
-var d;
-var e = null;
-var f = { name: "Alex", lastName: "Kolbasin" };
+var age = prompt("Сколько тебе лет?", 100);
 
-alert(a);
-alert(b);
-alert(c);
-alert(d);
-alert(e);
-alert(f);
-
-console.log(a, b, c, d, e, f);
+if (age >= 18) {
+  alert("Поздравляем, вам " + age + " полных лет." + " Вы совершеннолетний");
+} else {
+  alert("К сожалению, вам " + age + " полных лет." + " Вы несовершеннолетний");
+}
