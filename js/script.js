@@ -1,5 +1,15 @@
-var a = "Hello world";
-alert(a);
+var a = "Hello";
+var b = 2;
+var c = true;
+var d;
+var e = null;
+var f = { name: "Alex", lastName: "Kolbasin" };
 
-a = "Modified hello world";
-console.log(a);
+alert(a);
+alert(b);
+alert(c);
+alert(d);
+alert(e);
+alert(f);
+
+console.log(a, b, c, d, e, f);
