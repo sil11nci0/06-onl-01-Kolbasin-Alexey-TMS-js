@@ -1,3 +1,3 @@
 # 06-onl-01-Kolbasin-Alexey-TMS-js
 
-## My readme
+## This is JS homework for course TMS
