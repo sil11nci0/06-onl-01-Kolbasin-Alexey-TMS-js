@@ -2,4 +2,4 @@
 
 ## This is JS homework for course TMS
 
-[Alt Text](https://media.giphy.com/media/MEpJT4D21IwN4Dxiyo/giphy.gif)
+![Alt Text](https://media.giphy.com/media/MEpJT4D21IwN4Dxiyo/giphy.gif)
